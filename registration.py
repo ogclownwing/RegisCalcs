@@ -1,4 +1,4 @@
-# Author:Henry Solano, Roger Sommer, Traegen Smith
+# Author:ogclownwing, Roger Sommer, Traegen Smith
 # This program creates a class registration system.  It allows
 # students to add courses, drop courses and list courses they are
 # registered for.
